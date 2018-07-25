@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.clinkcity.gcj.clinkcity.MESSAGE1";
+    public static final String EXTRA_MESSAGE = "com.clinkcity.gcj.clinkcity.MESSAGE_MAIN";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
